@@ -1,0 +1,27 @@
+How to use github?
+step 1: go to the google and search on the github.
+step 2: click on GitHub: where the world build software.
+step 3: then you can signup github.
+step 4: enter you email, password and continue.
+step 5: create new repository.(public - see any person / private - see this person you can choose.).
+step 6: then you can follow the code, and create a files/ folder.
+
+==> how to add folder in github ?
+create folder on desktop and righ click on folder then github and then follow code.
+
+==> download the git-scm = free of download
+64 bit git for window setup and then next next to install.
+
+
+
+
+
+
+
+interview question:-
+1. differnt between build and realse
+'build:-
+- build is small section of part - build is a small unit of funtion in a system which is used by the tester to test system. 
+
+realse:-
+- realse is a full application or all over apk/website. - release is a integrated code which makes the system as whole which is used at the time of realse/deployment.
